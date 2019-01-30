@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Thomas Kober'
-SITENAME = 'NLP & me'
+SITENAME = 'NLP & Me'
 SITEURL = ''
 
 PATH = 'content'
@@ -18,6 +18,13 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# Paths
+PATH = 'content'
+ARTICLE_PATHS = ['blog']
+
+# Theme
+THEME = 'nikhil-theme'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
