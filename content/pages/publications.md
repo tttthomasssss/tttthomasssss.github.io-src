@@ -1,4 +1,5 @@
 Title: Publications
+sortorder: 3
 
 I'm trying to keep this page up-to-date as much as possible, but if you don't find what you're looking for either check my [Google Scholar](https://scholar.google.at/citations?user=1YCMKBgAAAAJ&hl=en) page or [contact](./contact) me directly.
 
@@ -29,7 +30,7 @@ Like other count-based distributional spaces, however, Anchored Packed Trees are
 
 In this thesis, I will present a practical evaluation of the APT theory, including a large-scale hyperparameter sensitivity study and a characterisation of the distributional space that APTs give rise to. Based on the empirical analysis, the impact of the problem of data sparsity is investigated. In order to address the data sparsity challenge and retain the interpretability of the model, I explore an alternative algorithm — distributional inference — for improving elementary representations. The algorithm involves explicitly inferring unobserved co-occurrence events by leveraging the distributional neighbourhood of the semantic space. I then leverage the rich type structure in APTs and propose a generalisation of the distributional inference algorithm. I empirically show that distributional inference improves elementary word representations and is especially beneficial when combined with an intersective composition function, which is due to the complementary nature of inference and composition. Lastly, I qualitatively analyse the proposed algorithms in order to characterise the knowledge that they are able to infer, as well as their impact on the distributional APT space.
 
-<a href="{static}/pdfs/papers/thesis.pdf" target="_blank" class="label label-primary">phd thesis</a> <a href="{static}/bibtex/Kober_2018.bib" target="_blank" class="label label-info">bibtex</a>
+<a href="{static}/pdfs/papers/thesis.pdf" target="_blank" class="label label-primary">phd thesis</a> <a href="{static}/bibtex/Kober_2018.bib" target="_blank" class="label label-info">bibtex</a> <a href="{static}/pdfs/slides/NLPSeminar.pdf" target="_blank" class="label label-default">slides</a>
 
 ### 2017
 
@@ -85,7 +86,7 @@ _David Weir, Julie Weeds, Jeremy Reffin & Thomas Kober_
 
 We present a new framework for compositional distributional semantics in which the distributional contexts of lexemes are expressed in terms of anchored packed dependency trees. We show that these structures have the potential to capture the full sentential contexts of a lexeme and provide a uniform basis for the composition of distributional knowledge in a way that captures both mutual disambiguation and generalization.
 
-<a href="{static}/pdfs/papers/APT_CL_special_issue.pdf" target="_blank" class="label label-primary">paper</a> <a href="{static}/bibtex/Weir_2016.bib" target="_blank" class="label label-info">bibtex</a>
+<a href="{static}/pdfs/papers/APT_CL_special_issue.pdf" target="_blank" class="label label-primary">paper</a> <a href="{static}/bibtex/Weir_2016.bib" target="_blank" class="label label-info">bibtex</a> <a href="{static}/pdfs/slides/APT_talk_Julie.pdf" target="_blank" class="label label-default">slides</a>
 
 
 ### 2015

@@ -1,4 +1,5 @@
 Title: Contact
+sortorder: 2
 
 If you want to get in touch, then <a href="mailto:tkober@inf.ed.ac.uk"><i class="fa fa-envelope"></i><span> email</span></a> is perhaps the best option. While I rarely manage to get to <a href="https://www.urbandictionary.com/define.php?term=Inbox%20Zero" target="_blank">Inbox Zero</a>, I am quite good at replying within a few days.
 

@@ -12,7 +12,7 @@ DEFAULT_LANG = 'en'
 
 # Basic Settings
 DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
 HIDE_SIDEBAR = True
 
 # Feed generation is usually not desired when developing
@@ -64,13 +64,9 @@ PLUGINS = [
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', 'pdfs', 'notebooks', 'bibtex', 'datasets']
+STATIC_PATHS = ['images', 'pdfs', 'notebooks', 'bibtex', 'datasets', 'other']
 
-MENUITEM = [
-    ('Home', '/'),
-    ('Contact', '/contact/'),
-    ('Publications', '/publications/')
-]
+PAGE_ORDER_BY = 'sortorder'
 
 '''
 MENUITEMS = (

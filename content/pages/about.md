@@ -1,6 +1,7 @@
 Title: About me
 save_as: index.html
 status: hidden
+sortorder: 1
 
 I am currently post-doccing at the University of Edinburgh and I have previously PhDed with focus on Compositional Distributional Semantics at the University of Sussex.
 
