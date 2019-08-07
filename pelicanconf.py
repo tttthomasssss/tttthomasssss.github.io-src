@@ -14,6 +14,7 @@ DEFAULT_LANG = 'en'
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 HIDE_SIDEBAR = True
+DELETE_OUTPUT_DIRECTORY = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
