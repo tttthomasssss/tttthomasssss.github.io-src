@@ -29,9 +29,6 @@ ARTICLE_PATHS = ['blog']
 PAGE_PATHS = ['pages']
 
 # Theme
-#THEME = 'nikhil-theme'
-#THEME = 'notmyidea'
-#THEME = './theme'
 THEME = 'pelican-bootstrap3'
 
 BOOTSTRAP_THEME = 'readable'

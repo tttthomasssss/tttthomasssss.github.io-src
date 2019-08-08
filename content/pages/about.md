@@ -15,6 +15,12 @@ I am currently also co-organising the <a href="https://www.meetup.com/PyData-Edi
 
 ## About my Research
 
+#### The short version
+
+My research is focused on building better natural language understanding systems. My work is based on the combination of distributional semantics, distributional composition and logical semantics to understand and model causation and consequence of actions in text. I furthermore have a strong interest in leveraging unsupervised, semi-supervised and active learning techniques to improve and debug natural language understanding models.
+
+#### The long version
+
 My research is focused on building systems that understand natural language. I am particularly interested in modelling _causation and consequence_. Identifying a change of state for some entities and inferring their consequent state is a pretty tricky problem, that involves <a href="https://en.wikipedia.org/wiki/Tense–aspect–mood" target="_blank">tense, aspect, mood</a>, and all sorts of temporality in general.
 
 Modelling these fine-grained semantic properties at the word, clause and sentence level is very difficult and pretty much all current models fail to achieve reasonable performance on even a simple dataset (see our recent paper [here]({static}/pdfs/papers/TemporalAndAspectualEntailment_IWCS.pdf)).
