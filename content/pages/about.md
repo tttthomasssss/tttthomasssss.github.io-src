@@ -3,7 +3,11 @@ save_as: index.html
 status: hidden
 sortorder: 1
 
-I am currently post-doccing at the University of Edinburgh and I have previously PhDed with focus on Compositional Distributional Semantics at the University of Sussex.
+I am currently post-doccing at the University of Edinburgh, where I focus on building a form-independent semantics for content words. Abstracting away from the surface form of words and focus on their _meaning_ gets us closer to actual natural language understanding.
+
+Previously, I have PhDed with focus on Compositional Distributional Semantics at the University of Sussex.
+ 
+Language can be fairly weird at times as it lets us refer to the same thing by different words (e.g. buy, purchase, acquire are all - more or less - synonymous in meaning), and to different things with the same word (e.g. bank as in the financial institution vs. bank as the sloping land next to a river). During my PhD I've mostly focused on the latter, and indeed compositional distributional models are pretty good at making these distinctions (see e.g. <a href="{static}/pdfs/papers/Composition_SENSE.pdf" target="_blank">this paper</a>). In my post-doc I am now working on overcoming the issues of the former.
 
 <center>
 <img src="{static}/images/ProfilePicture_small.png" alt="drawing" height="182" width="160"/>
@@ -23,7 +27,7 @@ My research is focused on building better natural language understanding systems
 
 My research is focused on building systems that understand natural language. I am particularly interested in modelling _causation and consequence_. Identifying a change of state for some entities and inferring their consequent state is a pretty tricky problem, that involves <a href="https://en.wikipedia.org/wiki/Tense–aspect–mood" target="_blank">tense, aspect, mood</a>, and all sorts of temporality in general.
 
-Modelling these fine-grained semantic properties at the word, clause and sentence level is very difficult and pretty much all current models fail to achieve reasonable performance on even a simple dataset (see our recent paper [here]({static}/pdfs/papers/TemporalAndAspectualEntailment_IWCS.pdf)).
+Modelling these fine-grained semantic properties at the word, clause and sentence level is very difficult and pretty much all current models fail to achieve reasonable performance on even a simple dataset (see our recent paper <a href="{static}/pdfs/papers/TemporalAndAspectualEntailment_IWCS.pdf" target="_blank">here</a>).
 
 For example, it sounds reasonable at first to assume that _visits_ entails _be at/in_, so whenever we encounter the predicate _visit_ we infer that whoever is doing the visiting must also _be_ at that place.
 
