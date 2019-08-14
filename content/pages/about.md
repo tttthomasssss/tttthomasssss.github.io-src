@@ -7,8 +7,6 @@ I am currently post-doccing at the University of Edinburgh, where I focus on bui
 
 Previously, I have PhDed with focus on Compositional Distributional Semantics at the University of Sussex.
  
-Language can be fairly weird at times as it lets us refer to the same thing by different words (e.g. buy, purchase, acquire are all - more or less - synonymous in meaning), and to different things with the same word (e.g. bank as in the financial institution vs. bank as the sloping land next to a river). During my PhD I've mostly focused on the latter, and indeed compositional distributional models are pretty good at making these distinctions (see e.g. <a href="{static}/pdfs/papers/Composition_SENSE.pdf" target="_blank">this paper</a>). In my post-doc I am now working on overcoming the issues of the former.
-
 <center>
 <img src="{static}/images/ProfilePicture_small.png" alt="drawing" height="182" width="160"/>
 </center>
@@ -18,6 +16,8 @@ See a recent CV <a href="{static}/pdfs/cv.pdf" target="_blank">here</a> (_last u
 I am currently also co-organising the <a href="https://www.meetup.com/PyData-Edinburgh/" target="_blank">PyData Edinburgh Meetup</a>. If you are interested in giving a main talk or a ligthning talk about something related to data and/or python, please [get in touch](./contact). 
 
 ## About my Research
+
+Language can be fairly weird at times as it lets us refer to the same thing by different words (e.g. buy, purchase, acquire are all - more or less - synonymous in meaning), and to different things with the same word (e.g. bank as in the financial institution vs. bank as the sloping land next to a river). During my PhD I've mostly focused on the latter, and indeed compositional distributional models are pretty good at making these distinctions (see e.g. <a href="{static}/pdfs/papers/Composition_SENSE.pdf" target="_blank">this paper</a>). In my post-doc I am now working on overcoming the issues of the former.
 
 #### The short version
 
